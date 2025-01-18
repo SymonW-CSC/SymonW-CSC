@@ -1,5 +1,8 @@
 Hello!
-This is my readme file
+This is my readme file.
+My name is symon wellborn and i'm a freshman.
+I like to play guitar and thrift old clothes.
+
 
 <!--
 **SymonW-CSC/SymonW-CSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
